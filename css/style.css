@@ -10243,10 +10243,6 @@ fieldset[disabled] .select select:hover {
     padding: 18rem 1.5rem;
   }
 }
-.footer {
-  background-color: #fff;
-  padding: 3rem 1.5rem 6rem;
-}
 html {
   height: 100%;
   -webkit-text-size-adjust: 100%;
@@ -10997,7 +10993,6 @@ a.article-nav-next span {
   }
 }
 footer.footer .level-end .field {
-  flex-wrap: wrap;
   align-items: center;
 }
 @media screen and (max-width: 768px) {
